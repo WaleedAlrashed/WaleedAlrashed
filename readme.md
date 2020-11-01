@@ -34,7 +34,7 @@
 <br />
 <br />
 
-# Blog posts
+# Stackoverflow feed
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
