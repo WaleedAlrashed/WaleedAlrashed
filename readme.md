@@ -35,8 +35,8 @@
 <br />
 
 # Stackoverflow feed
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
