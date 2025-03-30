@@ -1,51 +1,61 @@
-### Hi there, I'm Waleed 👋
+# 👋 Hi, I'm Waleed Alrashed
 
-[![Website](https://img.shields.io/website?label=WaleedAlrashed.com&style=for-the-badge&url=https%3A%2F%2Fwaleedalrashed.com)](https://waleedalrashed.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/WaleedWmr1210?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%WaleedWmr1210&screen_name=WaleedWmr1210)
+[![Portfolio](https://img.shields.io/badge/Portfolio-waleedalrashed.com-blue?style=flat-square&logo=google-chrome)](https://waleedalrashed.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-waleedalrashed-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/waleedalrashed)
+[![Twitter](https://img.shields.io/badge/Twitter-waleedalrashedd-blue?style=flat-square&logo=twitter)](https://x.com/waleedalrashedd)
+[![GitHub](https://img.shields.io/badge/GitHub-WaleedAlrashed-blue?style=flat-square&logo=github)](https://github.com/WaleedAlrashed)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Waleed%20Alrashed-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/7567572/waleed-alrashed)
 
-## I'm a Software Developer
+## 👨‍💻 About Me
 
-- 🌱 I’m currently a Flutter Developer, contributing to open source packages 🔥
+I'm a Full Stack Web Developer based in Dubai, UAE, specializing in backend development. I'm passionate about building scalable systems and creating robust backend solutions that power modern digital experiences.
 
-### Connect with me
+- 🔭 Currently working as a Backend Developer at AJA International
+- 🌱 Experienced in integrating payment gateways and building secure backend systems
+- 👯 Open to collaborating on interesting projects
+- 🚀 Love contributing to open-source projects
 
-[<img align="left" alt="waleedalrashed.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="waleed | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="WaleedWmr1210 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="waleed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🛠️ Tech Stack
 
-<br />
+### Languages
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Languages and Tools:
+### Frameworks & Tools
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<img align="left" alt="flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
-<img align="left" alt="dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="mySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="mongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-<br />
-<br />
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
-# Stackoverflow feed
-<!-- <!-- STACKOVERFLOW::START -->
-<!-- <!-- STACKOVERFLOW::END -->
+## 🏆 Recent Achievements
+- Enhanced CI/CD pipeline efficiency by 60% using Docker and ArgoCD
+- Developed Flutter-based solutions for FIFA World Cup watch events
+- Integrated multiple payment gateways (Apple Pay, Google Pay, Tabby, Tamara)
+- Built custom tracking platforms, increasing revenue by 25%
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## 📊 GitHub Stats
 
-  <img align="left" alt="WaleedAlrashed's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=WaleedAlrashed&show_icons=true&hide_border=true" />
+<img align="left" alt="WaleedAlrashed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WaleedAlrashed&show_icons=true&hide_border=true&theme=radical" />
 
-</details>
+## 📫 Get in Touch
+- Portfolio: [waleedalrashed.com](https://waleedalrashed.com)
+- LinkedIn: [waleedalrashed](https://linkedin.com/in/waleedalrashed)
+- Twitter: [@waleedalrashedd](https://x.com/waleedalrashedd)
 
-[website]: https://waleedalrashed.com
-[twitter]: https://twitter.com/WaleedWmr1210
-[youtube]: https://www.youtube.com/channel/UC291e3Q-GBVZ8VsMsNFZEVw
-[linkedin]: https://www.linkedin.com/in/waleedalrashed
+---
+⭐️ From [WaleedAlrashed](https://github.com/WaleedAlrashed)
